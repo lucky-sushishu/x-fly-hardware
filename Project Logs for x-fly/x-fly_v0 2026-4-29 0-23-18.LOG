@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SPI3_CS1 Pin=U1-55
+Removed Pin From Net: NetName=SPI3_CS2 Pin=U1-56
+Removed Pin From Net: NetName=SPI3_CS3 Pin=U1-57
+Removed Pin From Net: NetName=SPI3_CS4 Pin=U1-58
+Added Pin To Net: NetName=SPI3_CS4 Pin=U1-55
+Added Pin To Net: NetName=SPI3_CS3 Pin=U1-56
+Added Pin To Net: NetName=SPI3_CS2 Pin=U1-57
+Added Pin To Net: NetName=SPI3_CS1 Pin=U1-58

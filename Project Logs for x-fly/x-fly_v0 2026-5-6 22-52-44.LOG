@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PD0 Pin=J2-11
+Removed Pin From Net: NetName=PD1 Pin=J2-12
+Removed Pin From Net: NetName=PB8 Pin=J2-13
+Removed Pin From Net: NetName=PB9 Pin=J2-14
+Added Pin To Net: NetName=PD1 Pin=J2-11
+Added Pin To Net: NetName=PD0 Pin=J2-12
+Added Pin To Net: NetName=PB9 Pin=J2-13
+Added Pin To Net: NetName=PB8 Pin=J2-14
+Added Member To Class: ClassName=Sheet1 Member=Component J2 PM2.54-2-12PY

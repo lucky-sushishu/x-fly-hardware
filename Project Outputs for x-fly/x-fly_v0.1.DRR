@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: x-fly_v0.1.PcbDoc   2026/5/22  21:34:50
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : x-fly_v0.1-RoundHoles.TXT
+ASCII SlotHoles File : x-fly_v0.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             154       PTH        24.27inch (616.49mm)
+T2      28mil (0.7mm)                                             Slot              2         PTH        1.36inch (34.43mm)
+T3      32mil (0.8mm)                                             Round             9         PTH        2.24inch (56.94mm)
+T4      39mil (1mm)                                               Round             12        PTH        1.31inch (33.36mm)
+T5      41mil (1.05mm)                                            Round             48        PTH        7.31inch (185.74mm)
+T6      43mil (1.1mm)                                             Round             12        PTH        1.38inch (35.00mm)
+T7      126mil (3.2mm)                                            Round             4         NPTH       8.15inch (207.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              241
+
+Total Processing Time (hh:mm:ss) : 00:00:00

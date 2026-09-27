@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\2.data\12.x-fly\1.hardware\1.project\x-fly\x-fly_v0.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=x-fly_v0.1-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=x-fly_v0.1-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

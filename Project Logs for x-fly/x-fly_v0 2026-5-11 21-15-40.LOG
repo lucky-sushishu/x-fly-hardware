@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC2 Pin=J1-9
+Removed Pin From Net: NetName=PC3 Pin=J1-10
+Added Pin To Net: NetName=PC3 Pin=J1-9
+Added Pin To Net: NetName=PC2 Pin=J1-10
+Added Member To Class: ClassName=Sheet3 Member=Component R23 0402-Res-49.9¦¸
