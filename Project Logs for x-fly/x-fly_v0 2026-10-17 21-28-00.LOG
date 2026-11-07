@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SW_STATUS Pin=U1-18
+Added Pin To Net: NetName=SW_STATUS Pin=U1-46

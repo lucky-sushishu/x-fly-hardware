@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDD_MCU Pin=J2-1
+Removed Pin From Net: NetName=SWDIO Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=SWCLK Pin=J2-4
+Removed Pin From Net: NetName=5V Pin=J2-5
+Removed Pin From Net: NetName=USART1_RX Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J2-7
+Removed Pin From Net: NetName=USART1_TX Pin=J2-8
+Added Pin To Net: NetName=USART1_TX Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=USART1_RX Pin=J2-3
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Pin To Net: NetName=SWCLK Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=SWDIO Pin=J2-7
+Added Pin To Net: NetName=VDD_MCU Pin=J2-8

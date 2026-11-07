@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Sheet2 Member=C35
+Added Member To Class: ClassName=Sheet2 Member=Component C31 0402-Cap-10nF
+Added Member To Class: ClassName=Sheet2 Member=Component C32 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C34 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet3 Member=Component C37 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet3 Member=Component C39 0402-Cap-10uF
+Added Member To Class: ClassName=Sheet3 Member=Component C41 0402-Cap-10pF
+Added Member To Class: ClassName=Sheet3 Member=Component C43 0402-Cap-10pF
+Added Member To Class: ClassName=Sheet3 Member=Component C45 0402-Cap-0.1uF

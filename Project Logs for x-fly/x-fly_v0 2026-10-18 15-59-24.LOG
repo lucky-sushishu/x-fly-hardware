@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IST8310_RSTN Pin=U1-61
+Removed Pin From Net: NetName=IST8310_DRDY Pin=U1-62
+Added Pin To Net: NetName=IST8310_DRDY Pin=U1-81
+Added Pin To Net: NetName=IST8310_RSTN Pin=U1-82

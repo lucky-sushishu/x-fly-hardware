@@ -1,0 +1,130 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=NRST Pin=C8-2
+Removed Pin From Net: NetName=NRST Pin=R8-1
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=NRST Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=NRST Pin=SW1-4
+Removed Pin From Net: NetName=NRST Pin=SW1-4
+Removed Pin From Net: NetName=NRST Pin=SW1-4
+Removed Pin From Net: NetName=NRST Pin=SW1-4
+Removed Member From Class: ClassName=Sheet3 Member=P1
+Change Component Footprint: Designator=R8 Old Footprint=0402-Res New Footprint=AO3401A
+Change Component Comment : Designator=C8 Old Comment=0402-Cap-100nF New Comment=0402-Cap-0.47uF
+Change Component Comment : Designator=R8 Old Comment=0402-Res-10kΩ New Comment=AO3401A
+Change Component Designator: OldDesignator=R8 NewDesignator=Q1
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change component parameters: Designator = "R8" ("Q1"); Footprint = "0402-Res"; UniqueID = "\LFLMVVOW" ("\LFLMVVOW")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AO3401A/15801.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate Charge(Qg)"; Value = "14nC@10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "900mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "645pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "1个P沟道 耐压:30V 电流:4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "AO3401A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "c62791f0466c4ae2a892c056b845b0ca"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "98.64468,114.173,0,180,0,0,0.001,-0.002,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number"; Value = "1个P沟道"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Capacitance(Coss)"; Value = "80pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pd - Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDS(on)"; Value = "47mΩ@10V；85mΩ@2.5V；60mΩ@4.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "55pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C15127"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "AO3401A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(2N7002)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/2N7002%252C215/66260.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge(Qg)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "50pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1个N沟道 耐压:60V 电流:300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(安世)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "2N7002,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "c62791f0466c4ae2a892c056b845b0ca"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "98.64468,114.173,0,180,0,0,0.001,-0.002,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1个N沟道"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-65℃~+150℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Capacitance(Coss)"; Value = "6.8pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "830mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "5Ω@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "3.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C65189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "2N7002,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "N沟道"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs"; Value = "±30V"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0402-Res)
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0402-Res)
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATTERY_IN Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Change Net Name : Old Net Name=BATTERY_IN New Net Name=VSYS
+Change Net Name : Old Net Name=GND New Net Name=SW_IN
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR30_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=Q2-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=Q1-3
+Added Pin To Net: NetName=NetC8_2 Pin=R8-1
+Added Pin To Net: NetName=NetC8_2 Pin=SW1-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R10-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=POWER_HOLD Pin=R10-1
+Added Net: Name=POWER_HOLD
+Added Pin To Net: NetName=VBAT_3S Pin=Q1-2
+Added Pin To Net: NetName=VBAT_3S Pin=R8-2
+Added Net: Name=VBAT_3S
+Added Member To Class: ClassName=Sheet3 Member=Component J2 PM1.00-1-4PY
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 2N7002
+Added Member To Class: ClassName=Sheet1 Member=Component R8 0402-Res-47kΩ
+Added Member To Class: ClassName=Sheet1 Member=Component R16 0402-Res-0Ω
+Added Rule: Name=Schematic Supply Nets_2

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SBUS_IN Pin=U1-25
+Added Pin To Net: NetName=SBUS_IN Pin=U1-97

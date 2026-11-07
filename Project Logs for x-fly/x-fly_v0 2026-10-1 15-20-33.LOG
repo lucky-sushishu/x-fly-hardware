@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=LED2 Pin=LED3-2
+Change Component Footprint: Designator=LED1 Old Footprint=LED-0603-BLUE New Footprint=LED-0402-BLUE
+Change Component Footprint: Designator=LED2 Old Footprint=LED-0603-GREEN New Footprint=LED-0402-GREEN
+Change Component Footprint: Designator=LED3 Old Footprint=LED-0603-RED New Footprint=LED-0402-RED
+Change Component Comment : Designator=LED1 Old Comment=LED-0603-BLUE New Comment=LED-0402-BLUE
+Change Component Comment : Designator=LED2 Old Comment=LED-0603-GREEN New Comment=LED-0402-GREEN
+Change Component Comment : Designator=LED3 Old Comment=LED-0603-RED New Comment=LED-0402-RED
+Change Component Designator: OldDesignator=LED1 NewDesignator=L1
+Change Component Designator: OldDesignator=LED2 NewDesignator=L2
+Change Component Designator: OldDesignator=LED3 NewDesignator=L3
+Change component parameters: Designator = "LED1" ("L1"); Footprint = "LED-0603-BLUE"; UniqueID = "\AFALVOLG" ("\AFALVOLG")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color Temperature"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/GL0402UB01/54645999.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "独立二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "LED0402-R-RD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "蓝色"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lamp Holder Type"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "0402 蓝灯 高亮"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "34mcd~100mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Guiguang light(桂光光电)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "GL0402UB01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "b7ca3c30c6b4443191a5849952e50378"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "LED0402_L1.0-W0.5-H0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "40.1574,19.685,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "正贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C51933303"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "GL0402UB01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "5mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward(Vf)"; Value = "2.6V~3.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Dominant"; Value = "460nm~475nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("L2"); Footprint = "LED-0603-GREEN"; UniqueID = "\VDBMOQZF" ("\VDBMOQZF")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color Temperature"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/GL0402UG01/54645998.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "独立二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "LED0402-RD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "翠绿色"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lamp Holder Type"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "0402 翠绿 高亮"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "175mcd~430mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Guiguang light(桂光光电)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "GL0402UG01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "080bb9bd520f4b34ac21e218e7b036d6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "LED0402_L1.0-W0.5-H0.2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "40.1574,19.685,0,0,0,0,0,-0.0005,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "正贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C51933302"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "GL0402UG01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "5mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward(Vf)"; Value = "2.6V~3.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Dominant"; Value = "513nm~528nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3" ("L3"); Footprint = "LED-0603-RED"; UniqueID = "\CAPOITID" ("\CAPOITID")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color Temperature"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/GL0402UR01/54645997.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "独立二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "LED0402-RD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "红色"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lamp Holder Type"; Value = "1.1mmx0.5mm方形灯头"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "0402 红灯 高亮"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "85mcd~210mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Guiguang light(桂光光电)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "GL0402UR01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "080bb9bd520f4b34ac21e218e7b036d6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "LED0402_L1.0-W0.5-H0.2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "40.1574,19.685,0,0,0,0,0,-0.0005,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "正贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C51933301"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "GL0402UR01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward(Vf)"; Value = "1.8V~2.4V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Dominant"; Value = "615nm~630nm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=LED2 Pin=L3-1
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetL2_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R9-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R11-2
+Added Net: Name=NetL3_2

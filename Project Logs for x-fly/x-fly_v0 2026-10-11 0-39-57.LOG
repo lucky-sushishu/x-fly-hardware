@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=VDD_MCU Pin=D1-1
+Removed Pin From Net: NetName=VBAT Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=NetC8_2 Pin=R9-1
+Removed Pin From Net: NetName=SW_STATUS Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=POWER_HOLD Pin=R13-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R13-2
+Removed Pin From Net: NetName=NetC8_2 Pin=SW1-2
+Change Component Footprint: Designator=R13 Old Footprint=0402-Res New Footprint=1N4148W
+Change Component Footprint: Designator=D1 Old Footprint=B5819WS New Footprint=1N4148W
+Change Component Comment : Designator=C8 Old Comment=0402-Cap-0.47uF New Comment=0402-Cap-4.7uF
+Change Component Comment : Designator=R13 Old Comment=0402-Res-10k¶∏ New Comment=1N4148W
+Change Component Comment : Designator=R9 Old Comment=0402-Res-100k¶∏ New Comment=0402-Res-10k¶∏
+Change Component Comment : Designator=R32 Old Comment=0402-Res-510¶∏ New Comment=0402-Res-33¶∏
+Change Component Comment : Designator=D1 Old Comment=B5819WS New Comment=1N4148W
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=D2
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change component parameters: Designator = "D1" ("D1"); Footprint = "B5819WS"; UniqueID = "\RKMINZRC" ("\RKMINZRC")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Rectified"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/1N4148W/8397140.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "∂¿¡¢ Ω"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "SOD-123_L2.7-W1.6-LS3.7-FD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "100V 150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "R+O(∫ÍºŒ≥œ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "1N4148W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "5054d9b7be8b429dad093a54b517b4dd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "SOD-123_L2.7-W1.6-LS3.7-FD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "145.669,61.024,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Non-Repetitive Peak Forward Surge Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Junction Temperature Range"; Value = "-55°Ê~+150°Ê"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pd - Power Dissipation"; Value = "400mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1uA@75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time (trr)"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SOD-123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C7420318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "1N4148W_C7420318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - DC Reverse(Vr)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward(Vf@If)"; Value = "1.25V@150mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("D2"); Footprint = "0402-Res"; UniqueID = "\AKLKPHLN" ("\AKLKPHLN")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Rectified"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/1N4148W/8397140.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "∂¿¡¢ Ω"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "SOD-123_L2.7-W1.6-LS3.7-FD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "100V 150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "R+O(∫ÍºŒ≥œ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "1N4148W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "5054d9b7be8b429dad093a54b517b4dd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "SOD-123_L2.7-W1.6-LS3.7-FD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "145.669,61.024,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Non-Repetitive Peak Forward Surge Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Junction Temperature Range"; Value = "-55°Ê~+150°Ê"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pd - Power Dissipation"; Value = "400mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1uA@75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time (trr)"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SOD-123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C7420318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "1N4148W_C7420318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - DC Reverse(Vr)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward(Vf@If)"; Value = "1.25V@150mA"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0402-Res)
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Added Component: Designator=R33(0402-Res)
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=D1-1
+Added Pin To Net: NetName=SW_STATUS Pin=D2-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q2-3
+Added Pin To Net: NetName=SW_STATUS Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R11-2
+Added Pin To Net: NetName=POWER_HOLD Pin=R12-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R12-2
+Added Pin To Net: NetName=NetR32_1 Pin=R33-1
+Added Pin To Net: NetName=3V3 Pin=R33-2
+Change Net Name : Old Net Name=LINK_LED New Net Name=NetR23_1
+Change Net Name : Old Net Name=SPEED_LED New Net Name=NetR25_1
+Change Net Name : Old Net Name=VBAT_3S New Net Name=+BAT_3S
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=SW1-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=Sheet1 Member=Component D3 B5819WS
+Added Member To Class: ClassName=Sheet3 Member=Component R38 0402-Res-47k¶∏
+Added Rule: Name=Schematic Supply Nets_2

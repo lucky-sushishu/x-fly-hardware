@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: E:\2.data\12.x-fly\1.hardware\1.project\x-fly\x-fly_v0.11a.PcbDoc
+RuleKind=Width|RuleName=12V|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=5V|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=3.3V|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

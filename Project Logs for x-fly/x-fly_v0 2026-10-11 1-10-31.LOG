@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=Q1-1
+Removed Pin From Net: NetName=+BAT_3S Pin=Q1-2
+Removed Pin From Net: NetName=VSYS Pin=Q1-3
+Change Component Comment : Designator=C8 Old Comment=0402-Cap-4.7uF New Comment=0603-Cap-4.7uF
+Added Component: Designator=Q1(BLM3401)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BLM3401/91666.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge(Qg)"; Value = "9.5nC@4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "1.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "950pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1个P沟道 耐压:30V 电流:4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BL(上海贝岭)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "BLM3401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "89cb27a44ab2466697082bb9fd73a7d0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "114.173,110.236,0,90,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1个P沟道"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Capacitance(Coss)"; Value = "115pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "1.2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "55mΩ@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "75pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C90479"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BLM3401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "P沟道"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs"; Value = "±20V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=Q1-1
+Added Pin To Net: NetName=+BAT_3S Pin=Q1-2
+Added Pin To Net: NetName=VSYS Pin=Q1-3

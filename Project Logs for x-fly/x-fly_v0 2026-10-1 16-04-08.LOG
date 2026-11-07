@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NRST Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Change Component Footprint: Designator=SW1 Old Footprint=button New Footprint=button-mini
+Change Component Comment : Designator=SW1 Old Comment=button New Comment=button-mini
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "button"; UniqueID = "\QJQDXNWF" ("\QJQDXNWF")
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "方形按钮"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator/Cap Color"; Value = "白色"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "单刀单掷"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520TS24CB%2520160gf/26898574.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "SW-SMD_HX-TS24CB-160GF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IP Rating"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "侧按小贝贝2*4 沉板式3.5mmx4.0mm 160gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life"; Value = "3万次"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "hanxia(韩下)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "HX TS24CB 160gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "f4d7273b903e43c4b88f6833b850897a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "SW-SMD_HX-TS24CB-160GF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "218.5035,159.842,0,0,0,0,0,27.205,-39.37"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "1.6N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-25℃~+70℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD,5.6x2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C25168832"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "HX TS24CB 160GF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD接片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "with Bracket"; Value = "不带支架"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "With Lamp"; Value = "无"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-4
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-4
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-4
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-4
+Added Net: Name=NetSW1_3

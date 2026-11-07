@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Added Component: Designator=J1(XH2.50_2PIN)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "°×É«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Îý"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ZX-XH2.54-2PWZ/8427558.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flame Retardant Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CONN-TH_2P-P2.50_ZX-XH2.54-2PWZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x2P ¼ä¾à:2.5mm Íä²å ÏµÁÐ:XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Megastar(Õ×ÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "ZX-XH2.54-2PWZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "24f25f0d7a3348c685f49f501f04732c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CONN-TH_2P-P2.50_ZX-XH2.54-2PWZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "295.669,300.7868,0,0,0,0,0,-137.795,-133.858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Íä²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plastic Material"; Value = "PA66"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplementary Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "Íä²å,P=2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C7429641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-XH2.54-2PWZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X-Length of Bottom Edge on Board (Spacing Line)"; Value = "7.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Y-Width of Bottom Edge on Board"; Value = "7.32mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Z-Height of the Board"; Value = "5.9mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT_3S Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=Sheet1 Member=Component J4 zx-sh1.0-3pwt

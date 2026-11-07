@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=POWER_HOLD Pin=U1-1
+Added Pin To Net: NetName=POWER_HOLD Pin=U1-38

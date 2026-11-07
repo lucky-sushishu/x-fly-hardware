@@ -1,0 +1,65 @@
+Removed Member From Class: ClassName=Sheet1 Member=C32
+Removed Member From Class: ClassName=Sheet1 Member=C34
+Removed Member From Class: ClassName=Sheet1 Member=C36
+Removed Member From Class: ClassName=Sheet1 Member=C39
+Removed Member From Class: ClassName=Sheet1 Member=C41
+Removed Member From Class: ClassName=Sheet2 Member=C41
+Removed Member From Class: ClassName=Sheet1 Member=C43
+Removed Member From Class: ClassName=Sheet2 Member=C43
+Removed Member From Class: ClassName=Sheet2 Member=C46
+Removed Member From Class: ClassName=Sheet2 Member=C50
+Removed Member From Class: ClassName=Sheet1 Member=R16
+Removed Member From Class: ClassName=Sheet1 Member=R18
+Removed Member From Class: ClassName=Sheet1 Member=R20
+Removed Member From Class: ClassName=Sheet2 Member=R20
+Removed Member From Class: ClassName=Sheet2 Member=R22
+Removed Member From Class: ClassName=Sheet1 Member=U5
+Added Member To Class: ClassName=Sheet1 Member=Component C9 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 0402-Cap-22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0402-Cap-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C15 0402-Cap-22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C16 0402-Cap-100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 0402-Cap-22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C20 0402-Cap-4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C22 0402-Cap-100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C24 0402-Cap-100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C26 0402-Cap-2.2uF
+Added Member To Class: ClassName=Sheet2 Member=Component C27 0402-Cap-10nF
+Added Member To Class: ClassName=Sheet2 Member=Component C28 0402-Cap-100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C29 0402-Cap-0.47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C30 0402-Cap-100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C31 0402-Cap-2.2uF
+Added Member To Class: ClassName=Sheet2 Member=Component C33 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C35 0402-Cap-2.2uF
+Added Member To Class: ClassName=Sheet2 Member=Component C37 0402-Cap-10nF
+Added Member To Class: ClassName=Sheet2 Member=Component C38 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C40 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet3 Member=Component C42 0402-Cap-18pF
+Added Member To Class: ClassName=Sheet3 Member=Component C44 0402-Cap-0.1uF
+Added Member To Class: ClassName=Sheet3 Member=Component C45 0402-Cap-18pF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 B5819WS
+Added Member To Class: ClassName=Sheet1 Member=Component D2 B5819WS
+Added Member To Class: ClassName=Sheet1 Member=Component J1 PM1.00-1-8PY
+Added Member To Class: ClassName=Sheet1 Member=Component J2 PM1.00-1-2PY
+Added Member To Class: ClassName=Sheet1 Member=Component J3 PM1.00-1-2PY
+Added Member To Class: ClassName=Sheet1 Member=Component J4 PM1.00-1-2PY
+Added Member To Class: ClassName=Sheet1 Member=Component L1 2512-IND-3.3uH
+Added Member To Class: ClassName=Sheet1 Member=Component R11 0402-Res-10k次
+Added Member To Class: ClassName=Sheet1 Member=Component R13 0402-Res-54.9k次
+Added Member To Class: ClassName=Sheet1 Member=Component R14 0402-Res-10k次
+Added Member To Class: ClassName=Sheet1 Member=Component R15 0402-Res-0次
+Added Member To Class: ClassName=Sheet2 Member=Component R17 0402-Res-4.7K次
+Added Member To Class: ClassName=Sheet2 Member=Component R19 0402-Res-10K次
+Added Member To Class: ClassName=Sheet3 Member=Component R21 0402-Res-12.1k次
+Added Member To Class: ClassName=Sheet3 Member=Component R23 0402-Res-49.9次
+Added Member To Class: ClassName=Sheet3 Member=Component R24 0402-Res-49.9次
+Added Member To Class: ClassName=Sheet3 Member=Component R25 0402-Res-49.9次
+Added Member To Class: ClassName=Sheet3 Member=Component R26 0402-Res-49.9次
+Added Member To Class: ClassName=Sheet3 Member=Component R28 0402-Res-10k次
+Added Member To Class: ClassName=Sheet3 Member=Component R30 0402-Res-47k次
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 BUTTON-MINI
+Added Member To Class: ClassName=Sheet1 Member=Component U2 TPS563201DDCR
+Added Member To Class: ClassName=Sheet2 Member=Component U4 ICM-20689
+Added Member To Class: ClassName=Sheet2 Member=Component U6 ICM-20602
+Added Member To Class: ClassName=Sheet2 Member=Component U7 IST8310
